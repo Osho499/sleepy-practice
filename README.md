@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Christian
+# 👋 Hi, I'm Paul
 ### Cybersecurity Analyst | SOC Analyst | Incident Response | Threat Analysis  
 
 Welcome to my GitHub!  
@@ -23,7 +23,7 @@ Tools: **Splunk Enterprise**
 ## 🛠 Skills & Technologies  
 - **SIEM:** Splunk    
 - **Operating Systems:** Linux, Windows  
-- **Scripting:** Bash, Python (beginner)  
+- **Scripting:** Bash, Python
 - **Cybersecurity Foundations:** Incident Response, Threat Analysis  
 
 ## 🀄 Certifications
@@ -59,6 +59,8 @@ Outside cybersecurity, I have an interest in:
 
 ## 📫 How to Reach Me  
 - **LinkedIn:** (www.linkedin.com/in/paul-osho-3b2293233)
+- **Email:** (Oshopaul50@gmail.com)
+- **Phone number:** 08051439357,09132485010
 
 Thanks for passing through my GitHub! 🚀  
 Feel free to explore my projects and reach out.
